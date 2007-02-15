@@ -9,7 +9,7 @@ module mon = LaserDQM
     untracked double SearchWindowZTOB = 1.0
     VPSet DigiProducersList = 
     {
-	{ string DigiProducer = "stripdigi"
+	{ string DigiProducer = "siStripDigis"
 	    string DigiLabel    = "\0"
 	}
 	
